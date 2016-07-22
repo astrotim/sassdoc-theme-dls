@@ -1,7 +1,7 @@
 {
   "name": "sassdoc-theme-flippant",
   "version": "0.1.0",
-  "description": "A modified version of Sassdoc's default theme",
+  "description": "A modified version of the SassDoc / Flippant theme",
   "keywords": [
     "sassdoc-theme"  
   ],
@@ -18,12 +18,12 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbox/flippant.git"
+    "url": "git+https://github.com/astrotim/sassdoc-theme-dls.git"
   },
   "author": "dbox",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dbox/flippant/issues"
+    "url": "https://github.com/astrotim/sassdoc-theme-dls/issues"
   },
   "dependencies": {
     "chroma-js": "^0.6.3",
@@ -36,5 +36,5 @@
     "swig": "1.4.0",
     "swig-extras": "^0.0.1"
   },
-  "homepage": "https://github.com/dbox/flippant#readme"
+  "homepage": "https://github.com/astrotim/sassdoc-theme-dls"
 }
