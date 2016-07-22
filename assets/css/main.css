@@ -506,6 +506,22 @@ table p {
     text-align: left;
     font-weight: 100;
 }
+.main__heading a {
+    color: white;
+}
+.main__heading a:hover {
+    color: white;
+    opacity: .8;
+}
+.main__heading span {
+    font-size: 1rem;
+    transition: opacity .2s ease-in;
+    opacity:0;
+}
+.main__heading:hover span {
+    opacity:1;
+}
+
 .main__heading--secondary {
     font-size: 2.75em;
     color: #2196F3;

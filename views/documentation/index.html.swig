@@ -16,7 +16,10 @@
       <section class="main__section">
         <h1 class="main__heading" id="{{ group_name }}">
           <div class="container">
+            <a href="/components/{{ groups[group_name]|replace('__','/') }}">
             {{ groups[group_name] }}
+            </a>
+            <span>Back to DLS</span>
           </div>
         </h1>
 
